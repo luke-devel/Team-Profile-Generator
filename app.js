@@ -25,3 +25,4 @@ const Intern = require("./lib/Intern");
 var x = new Manager();
 
 x.addManager();
+
